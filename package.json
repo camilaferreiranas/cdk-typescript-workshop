@@ -23,6 +23,7 @@
     "@types/aws-lambda": "^8.10.121",
     "aws-cdk-lib": "2.96.2",
     "aws-sdk": "^2.1463.0",
+    "cdk-dynamo-table-viewer": "^0.2.487",
     "constructs": "^10.0.0",
     "source-map-support": "^0.5.21"
   }
